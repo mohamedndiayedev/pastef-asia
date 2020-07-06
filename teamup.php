@@ -1,6 +1,6 @@
       <?php 
       session_start();
-    include('includes/header.php');
+    include('header.php');
       ?>
         <!-- SECTION 1 -->
         <section class="grid margin-bottom-20">
@@ -66,5 +66,5 @@
       
        
       <?php 
-    include('includes/footer.php');
+    include('footer.php');
       ?>
